@@ -7,7 +7,7 @@ I'm Eshaan, an aspiring Data Scientist. I love travelling and meeting new people
 - 💬 Ask me about crypto.
 - 📫 How to reach me: eshaanmathakari@gmail.com
 - 👨‍💻 I worked at Sagility Healthcare as a Data Science Intern.
-- ⚡ Fun fact: I work as a sneaker reseller in my free time.
+- ⚡ Fun fact: I work as a sneaker reseller and soccer player in my free time.
 <!--
 **eshaanmathakari/eshaanmathakari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: 
